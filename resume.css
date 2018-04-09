@@ -1,0 +1,9 @@
+body {
+  margin: 50PX;
+  padding: 90PX;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: Black;
+  background: url('images/tec6.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
